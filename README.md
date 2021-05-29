@@ -1,4 +1,7 @@
- ## Requisitos
+# React Control de citas
+Proyecto React: Control de citas de una veterinaria
+
+## Requisitos
 
 1. Instalar dependencias
 
